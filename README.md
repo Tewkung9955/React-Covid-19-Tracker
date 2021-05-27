@@ -69,3 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # React-Covid-19-Tracker
+
+![test2](https://user-images.githubusercontent.com/60804279/119778253-7c7e9b80-bef1-11eb-82a1-95b0ef7f3fcb.jpg)
